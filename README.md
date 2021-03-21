@@ -1,1 +1,1 @@
-# coding_queries
+# Coding Enigmas

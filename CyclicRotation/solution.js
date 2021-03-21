@@ -1,5 +1,6 @@
 // you can write to stdout for debugging purposes, e.g.
 // console.log('this is a debug message');
+// Codility results: https://app.codility.com/demo/results/trainingERQFSM-56C/
 
 function getShift(shift, A) {
   if (shift >= A.length) {
